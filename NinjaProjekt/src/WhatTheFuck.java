@@ -5,5 +5,9 @@ public class WhatTheFuck {
 		System.out.println("Job");
 
 	}
+	
+	public static void hallo(){
+		
+	}
 
 }
