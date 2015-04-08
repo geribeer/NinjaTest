@@ -10,4 +10,7 @@ public class WhatTheFuck {
 		System.out.println("hello");
 	}
 
+	public static void tschau(){
+		System.out.println("tschau   mia");
+	}
 }
