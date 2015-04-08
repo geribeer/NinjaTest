@@ -11,6 +11,6 @@ public class WhatTheFuck {
 	}
 
 	public static void tschau(){
-		System.out.println("tschau");
+		System.out.println("tschau mia");
 	}
 }
