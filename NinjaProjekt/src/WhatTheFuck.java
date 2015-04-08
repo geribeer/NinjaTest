@@ -7,7 +7,7 @@ public class WhatTheFuck {
 	}
 	
 	public static void hallo(){
-		
+		System.out.println("hello");
 	}
 
 }
